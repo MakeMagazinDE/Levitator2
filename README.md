@@ -6,9 +6,10 @@ Levitator 2.0
 
 ![Picture](https://github.com/MakeMagazinDE/Levitator2/blob/master/aufm_quer_kl.JPG)
 
-### Schwebe-Elektronik, Make 3/2020 S. 100
+### Schwebe-Elektronik, Make 3/2020 S. 96
 
 ### Stückliste
+
 
   1 IC TL494<@$p>
   1 Halleffektsensor SS495
