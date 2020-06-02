@@ -10,13 +10,13 @@ Levitator 2.0
 
 ### Stückliste
 
-	1 IC TL494<@$p>
+	1 IC TL494
 	1 Halleffektsensor SS495
-	1 Widerstand 10KOhm
-	1 Widerstand 33KOhm
-	1 Widerstand 470KOhm
- 	1 Widerstand 100KOhm
- 	1 Widerstand 47KOhm
+	1 Widerstand 10 kOhm
+	1 Widerstand 33 kOhm
+	1 Widerstand 470 kOhm
+ 	1 Widerstand 100 kOhm
+ 	1 Widerstand 47 kOhm
  	1 Kondensator 100nF/50V
  	1 Kondensator 47nF
  	1 Kondensator 1,5nF
