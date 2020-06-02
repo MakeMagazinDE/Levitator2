@@ -4,7 +4,7 @@
 Levitator 2.0
 ===============================
 
-![Picture](https://github.com/MakeMagazinDE/Levitator2/blob/master/titel_Tropfenfotografie.jpg)
+![Picture](https://github.com/MakeMagazinDE/Levitator2/blob/master/aufm_quer_kl.JPG)
 
 
 In der Make 3/20 zeigen wir,
