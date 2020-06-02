@@ -8,8 +8,9 @@ Levitator 2.0
 
 Stücliste
 
-  1 IC TL494<@$p>
-  1 Halleffektsensor SS495<@$p>
+ 1 IC TL494<@$p>
+ 1 Halleffektsensor SS495<@$p>
+ 
   1 Widerstand 10KOhm<@$p>
   1 Widerstand 33KOhm<@$p>
   1 Widerstand 470KOhm<@$p>
