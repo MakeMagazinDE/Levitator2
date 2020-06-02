@@ -18,6 +18,7 @@ Die PDF-Dateien enthalten die mechanische Konstruktion und den Bohrplan. Zum 3D-
 	U1 IC TL494
  	D1 Diode 1N4148
 	U2 Halleffektsensor SS495
+	
 	Widerstände
 	R3 1 kOhm 
 	R7 10 kOhm
@@ -26,12 +27,14 @@ Die PDF-Dateien enthalten die mechanische Konstruktion und den Bohrplan. Zum 3D-
  	R4 100 kOhm
  	R1 47 kOhm
 	R5 Präzisions-Trimmpoti 1k
+	
 	Kondensatoren
  	C2 100nF/50V
  	C3 47nF
  	C1 1,5nF
  	C5 10µF/50V (Elko)
  	C4 100µF/35V (Elko)
+	
 	Sonstiges
  	1 Lochrasterplatine
  	diverse Steckverbinder
