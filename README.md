@@ -8,7 +8,9 @@ Levitator 2.0
 
 **Magneten schweben "schwerelos", Make 3/2020 S. 96**
 
-Die PDF-Dateien enthalten die mechanische Knonstruktion und Bohrplan. Zum 3D-Druck der Spulenkörper und Magnet-Abdeckungen verwednen Sie die STL-Dateien.
+Das scheinbar schwerelose Schweben von Objekten im Magnetfeld ist nicht nur für technikbegeisterte Bastler immer wieder faszinierend. Im Unterschied zu anderen Projekten lässt unseres einen Magneten nicht „hängend“ schweben, sondern über einer Oberfläche: Hier ist die Illusion nahezu perfekt, die Schwerkraft scheint ausgeschaltet.
+
+Die PDF-Dateien enthalten die mechanische Konstruktion und den Bohrplan. Zum 3D-Druck der Spulenkörper und Magnet-Abdeckungen verwenden Sie die STL-Dateien.
 
 ### Stückliste
 
