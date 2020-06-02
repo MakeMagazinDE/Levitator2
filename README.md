@@ -14,19 +14,21 @@ Die PDF-Dateien enthalten die mechanische Konstruktion und den Bohrplan. Zum 3D-
 
 ### Stückliste
 
-	1 IC TL494
-	1 Halleffektsensor SS495
-	1 Widerstand 10 kOhm
-	1 Widerstand 33 kOhm
-	1 Widerstand 470 kOhm
- 	1 Widerstand 100 kOhm
- 	1 Widerstand 47 kOhm
- 	1 Kondensator 100nF/50V
- 	1 Kondensator 47nF
- 	1 Kondensator 1,5nF
- 	1 Kondensator 10µF/50V (Elko)
- 	1 Kondensator 100µF/25V (Elko)
- 	1 Diode 1N4148<@$p>
+	U1 IC TL494
+	U2 Halleffektsensor SS495
+	R3 Widerstand 1 kOhm 
+	R7 Widerstand 10 kOhm
+	R6 Widerstand 33 kOhm
+	R2 Widerstand 470 kOhm
+ 	R4 Widerstand 100 kOhm
+ 	R1 Widerstand 47 kOhm
+	R5 präzisions-Trimmpoti 1k
+ 	C2 Kondensator 100nF/50V
+ 	C3 Kondensator 47nF
+ 	C1 Kondensator 1,5nF
+ 	C5 Kondensator 10µF/50V (Elko)
+ 	C4 Kondensator 100µF/35V (Elko)
+ 	D1 Diode 1N4148
  	1 Lochrasterplatine
  	diverse Steckverbinder
- 	1 (Laptop) Netzteil 16V
+ 	1 (Laptop-) Netzteil 16V
