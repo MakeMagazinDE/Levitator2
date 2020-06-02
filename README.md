@@ -6,7 +6,9 @@ Levitator 2.0
 
 ![Picture](https://github.com/MakeMagazinDE/Levitator2/blob/master/aufm_quer_kl.JPG)
 
-### Schwebe-Elektronik, Make 3/2020 S. 96
+**Magneten schweben "schwerelos", Make 3/2020 S. 96**
+
+Die PDF-Dateien enthalten die mechanische Knonstruktion und Bohrplan. Zum 3D-Druck der Spulenkörper und Magnet-Abdeckungen verwednen Sie die STL-Dateien.
 
 ### Stückliste
 
