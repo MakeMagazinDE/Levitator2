@@ -32,3 +32,4 @@ Die PDF-Dateien enthalten die mechanische Konstruktion und den Bohrplan. Zum 3D-
  	1 Lochrasterplatine
  	diverse Steckverbinder
  	1 (Laptop-) Netzteil 16V
+
