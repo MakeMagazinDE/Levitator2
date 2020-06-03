@@ -6,7 +6,7 @@ Levitator 2.0
 
 ![Picture](https://github.com/MakeMagazinDE/Levitator2/blob/master/aufm_quer_kl.JPG)
 
-**Magneten schweben "schwerelos", Make 3/2020 S. 96**
+**Magnete schweben "schwerelos", Make 3/2020 S. 96**
 
 Das scheinbar schwerelose Schweben von Objekten im Magnetfeld ist nicht nur für technikbegeisterte Bastler immer wieder faszinierend. Im Unterschied zu anderen Projekten lässt unseres einen Magneten nicht „hängend“ schweben, sondern über einer Oberfläche: Hier ist die Illusion nahezu perfekt, die Schwerkraft scheint ausgeschaltet.
 
